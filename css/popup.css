@@ -1,0 +1,25 @@
+
+#popup{
+    width:500px;
+    height:500px;
+    background-color: indigo;
+
+    position: fixed;
+    left:600px;
+    top:50px;
+    z-index: 9;
+}
+#popup-img{
+    width:500px;
+    height:450px;
+    background-color: indianred;
+}
+#popup-img>img{
+    width:100%;
+    height:100%;
+}
+#popup-btn{
+    width:500px;
+    height:50px;
+    background-color: olive;
+}
